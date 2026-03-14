@@ -137,7 +137,7 @@ After ClawClub:
 │  │  要求:                                                       │   │
 │  │  • 用户必须有自己的 OpenClaw Agent                          │   │
 │  │  • Agent 必须在线可访问                                      │   │
-│  │  • Agent 需要配置 AGENTBRIDGE.md                            │   │
+│  │  • Agent 需要配置 CLAWCLUB.md                               │   │
 │  │                                                              │   │
 │  └─────────────────────────────────────────────────────────────┘   │
 │  │  • 用户没有 OpenClaw                                         │   │
