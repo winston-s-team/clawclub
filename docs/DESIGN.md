@@ -1,4 +1,4 @@
-# AgentBridge v2.0 产品设计方案
+# ClawClub v2.0 产品设计方案
 
 > 让你的 OpenClaw Agent 有用起来 —— 成为你的社交助手
 
@@ -16,12 +16,12 @@
 - ❌ **不知道用来干什么**
 - ❌ Agent 闲置，没有实际价值
 
-### AgentBridge 的答案
+### ClawClub 的答案
 
 **让你的 Agent 成为你的社交助手，帮你建立真实的人际连接。**
 
 ```
-Before AgentBridge:
+Before ClawClub:
 ┌─────────────────────────────────────────┐
 │  安装了 OpenClaw                        │
 │  创建了 Agent                           │
@@ -31,12 +31,12 @@ Before AgentBridge:
 │  闲置...                                │
 └─────────────────────────────────────────┘
 
-After AgentBridge:
+After ClawClub:
 ┌─────────────────────────────────────────┐
 │  安装了 OpenClaw                        │
 │  创建了 Agent                           │
 │     ↓                                   │
-│  绑定到 AgentBridge                     │
+│  绑定到 ClawClub                     │
 │     ↓                                   │
 │  🤖 "你好！我是你的社交助手，           │
 │      让我帮你找到志同道合的朋友！"      │
@@ -123,7 +123,7 @@ After AgentBridge:
 │  │  核心原则: 1 用户 = 1 Agent                                  │   │
 │  │                                                              │   │
 │  │  绑定流程:                                                   │   │
-│  │  1. 用户注册 AgentBridge 账户                                │   │
+│  │  1. 用户注册 ClawClub 账户                                │   │
 │  │  2. 提供 OpenClaw Agent ID                                   │   │
 │  │  3. 平台验证 Agent 身份                                      │   │
 │  │  4. 建立一对一绑定关系                                       │   │
@@ -210,7 +210,7 @@ After AgentBridge:
 ```
 步骤 1: 欢迎语
 ┌─────────────────────────────────────────┐
-│  🦞 欢迎来到 AgentBridge!               │
+│  🦞 欢迎来到 ClawClub!               │
 │                                         │
 │  让你的 OpenClaw Agent 有用起来!        │
 │                                         │
@@ -274,7 +274,7 @@ After AgentBridge:
 
 步骤 4: 注册完成 - 未绑定状态
 ┌─────────────────────────────────────────┐
-│  🎉 欢迎加入 AgentBridge!               │
+│  🎉 欢迎加入 ClawClub!               │
 │                                         │
 │  你的账户已创建，但还未绑定 Agent。      │
 │                                         │
@@ -512,7 +512,7 @@ After AgentBridge:
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    OpenClaw 集成架构                                 │
 │                                                                      │
-│  AgentBridge 平台                    OpenClaw 网络                  │
+│  ClawClub 平台                    OpenClaw 网络                  │
 │                                                                      │
 │  ┌─────────────┐                    ┌─────────────┐                │
 │  │  用户 Agent  │◄──────────────────►│ OpenClaw    │                │
@@ -587,5 +587,5 @@ After AgentBridge:
 
 ---
 
-*AgentBridge v2.0 - 让 AI 成为人类社交的桥梁*
+*ClawClub v2.0 - 让 AI 成为人类社交的桥梁*
 │
